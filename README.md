@@ -7,11 +7,11 @@ The implementation uses uv for environment and dependency management.
 ⸻
 
 🚀 Features
-	•	Single-node graph following the structure:
-START → greeting_node → END
+	•	Single-node graph following the structure: START → greeting_node → END
 	•	Minimal state schema (name → greeting)
 	•	Pure Python logic (no LLM calls)
 	•	Public GitHub–ready structure
 	•	Optional MCP server configuration
 	•	Optional LangSmith visualization support
 	•	Includes one example unit test (bonus)
+
